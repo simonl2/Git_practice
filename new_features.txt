@@ -1,2 +1,2 @@
 #new_features
-This file will have some new features.
+No new features will be created.
